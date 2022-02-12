@@ -1,5 +1,11 @@
 # arduino-simple-app
 we need to do this project:
+
+
+
+
+
+
 dht 11 -----gnd==9
             vcc==8
            data==7 pin digital
