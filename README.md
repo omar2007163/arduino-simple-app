@@ -23,4 +23,4 @@ joystick---------vcc==vcc
 push BUTTUN-------switch==3 digital
                      gnd==5
                      vcc==4
- 
+  
