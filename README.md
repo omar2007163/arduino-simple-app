@@ -1,13 +1,13 @@
 # arduino-simple-app
 # we need to do this project:
 * dht tempreture and humidity sensor.
-* lcd 16×2 with I2c for coniction.
+* lcd 16×2 with I2c for conniction.
 * joy stick module.
 * push buttun.
 
 
 
-
+# connictions are:
 
 # dht 11:    
 *           gnd==9
